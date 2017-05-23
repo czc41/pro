@@ -1,9 +1,0 @@
-﻿public stitic void main(){
-
-	add.count
-	//asdasd
-	asdasdsa
-	asadasd
-	ssss
-	asd
-}
