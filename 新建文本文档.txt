@@ -1,9 +1,10 @@
 public stitic void main(){
 
 	add.count
-	asdasd
+	//asdasd
 	asdasdsa
-	asdasdsd
 	asadasd
+	阿斯大时代
+	
 
 }
