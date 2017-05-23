@@ -1,2 +1,9 @@
-asd
-zzz
+public stitic void main(){
+
+	add.count
+	asdasd
+	asdasdsa
+	asdasdsd
+	asadasd
+
+}
