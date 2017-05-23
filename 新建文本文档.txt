@@ -1,4 +1,4 @@
-public stitic void main(){
+﻿public stitic void main(){
 
 	add.count
 	//asdasd
@@ -6,5 +6,5 @@ public stitic void main(){
 	asadasd
 	阿斯大时代
 	
-
+	asd
 }
